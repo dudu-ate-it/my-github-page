@@ -17,7 +17,7 @@
 	<main>
 		<p>This is a simple webpage hosted on GitHub Pages.</p>
 		<p>Here's a picture of a cute cat:</p>
-		<img src="https://placekitten.com/200/300" alt="A cute kitten">
+		<img src="[https://placekitten.com/200/300](https://www.baltana.com/files/wallpapers-2/Cute-Cat-Images-07756.jpg)" alt="A cute kitten">
 		<p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
 	</main>
 	<footer>
